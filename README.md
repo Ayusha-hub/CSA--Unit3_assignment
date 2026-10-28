@@ -1,9 +1,14 @@
 # Hosting a Static Website on AWS EC2
 # Clone This Repository
 ```bash
-git clone https://github.com/atulkamble/aws-ec2-static-website.git
-cd aws-ec2-static-website
+git clone https://github.com/Ayusha-hub/CSA--Unit3_assignment.git
+cd CSA--Unit3_assignment
 ```
+
+# Documentation
+Execution report with the screenshot taken after the website was run:
+
+[CSA-Unit3-Assignment-Documentation.pdf](CSA-Unit3-Assignment-Documentation.pdf)
 
 # AWSWebsiteProject
 **Hosting a Website on AWS EC2**
